@@ -1,0 +1,23 @@
+.thumbnail{
+	padding:0;
+}
+
+.thumbnail img {
+	width:100%;
+}
+
+.caption-full {
+	padding:9px;
+}
+
+.deleteForm {
+	display: inline;
+}
+
+#signup {
+	padding-top: 15vh;
+}
+
+#login {
+	padding-top: 15vh;
+}
